@@ -2,6 +2,8 @@
 Desenvolvimento Site T1 - 29.10 - Desenvolvimento Front End
 O tema é construir uma página em bootstrap de acordo com as requisições exigidas pela disciplina
 
+## 🤝 Colaboradores
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
