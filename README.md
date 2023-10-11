@@ -22,8 +22,8 @@
 <br>
 <h3>Responsividade😯</h3>
 
-<img src="https://github.com/JamizM/SiteMaua/assets/78627928/21c60437-0411-404f-be87-3271fdf40d11" alt="requisicao_do_projeto"/> <br>
->Tela em um <strong>iPhone SE</strong>😁🤳🏼
+<img src="https://github.com/JamizM/SiteMaua/assets/78627928/fa9e521c-d1df-4b8e-8c4f-7cd7aa4ffebb" alt="responsividade_do_projeto"/> <br>
+>Tela em um <strong>iPhone 12 Pro</strong>😁🤳🏼
 >
 <br>
 
