@@ -39,6 +39,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+      <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/124106382?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>Flavio Carvalho:</i></b> <a href="https://github.com/Flavsc"><i>Flavsc</i></a>🏆<br>R.A: 23.00726-5</p>
+        </sub>
+      </a>
+    </td>
         <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/133376282?v=4" width="100px;" alt="era uma foto daora"/><br>
