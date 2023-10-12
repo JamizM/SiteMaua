@@ -55,5 +55,13 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/133376215?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>Victor Codinhoto:</i></b> <a href="https://github.com/VictorCodinhoto"><i>VictorCodinhoto</i></a>🏆<br>R.A: 23.00051-0</p>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
