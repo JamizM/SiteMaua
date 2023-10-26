@@ -22,8 +22,8 @@
 <br>
 <h3>Responsividade😯</h3>
 
-<img src="https://github.com/JamizM/SiteMaua/assets/78627928/21c60437-0411-404f-be87-3271fdf40d11" alt="requisicao_do_projeto"/> <br>
->Tela em um <strong>iPhone SE</strong>😁🤳🏼
+<img src="https://github.com/JamizM/SiteMaua/assets/78627928/fa9e521c-d1df-4b8e-8c4f-7cd7aa4ffebb" alt="responsividade_do_projeto"/> <br>
+>Tela em um <strong>iPhone 12 Pro</strong>😁🤳🏼
 >
 <br>
 
@@ -39,11 +39,27 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+      <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/124106382?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>Flavio Carvalho:</i></b> <a href="https://github.com/Flavsc"><i>Flavsc</i></a>🏆<br>R.A: 23.00726-5</p>
+        </sub>
+      </a>
+    </td>
         <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/133376282?v=4" width="100px;" alt="era uma foto daora"/><br>
         <sub>
           <p><b><i>João Martinez:</i></b> <a href="https://github.com/JamizM"><i>JamizM</i></a>🏆<br>R.A: 23.00983-7</p>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/133376215?v=4" width="100px;" alt="era uma foto daora"/><br>
+        <sub>
+          <p><b><i>Victor Codinhoto:</i></b> <a href="https://github.com/VictorCodinhoto"><i>VictorCodinhoto</i></a>🏆<br>R.A: 23.00051-0</p>
         </sub>
       </a>
     </td>
